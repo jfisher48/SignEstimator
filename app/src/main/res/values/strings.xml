@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SignEstimator</string>
+    <string name="x">X</string>
+    <string name="mat_1">PMWR</string>
+    <string name="mat_2">LOTAC</string>
+    <string name="mat_3">WALLTAC</string>
+    <string name="mat_4">WRFAB</string>
+    <string name="mat_5">BACKLIT</string>
+    <string name="mat_6">EPERF</string>
+    <string-array name="materials_array">
+        <item>@string/mat_1</item>
+        <item>@string/mat_2</item>
+        <item>@string/mat_3</item>
+        <item>@string/mat_4</item>
+        <item>@string/mat_5</item>
+        <item>@string/mat_6</item>
+    </string-array>
+</resources>
